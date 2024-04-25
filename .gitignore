@@ -1,0 +1,13 @@
+# Ignorer les fichiers compilés
+*.class
+
+# Ignorer les fichiers de configuration de l'IDE
+.idea/
+
+# Ignorer les fichiers de dépendances Node.js
+node_modules/
+
+# Ignorer les fichiers de sauvegarde
+*~
+
+# Ajoutez d'autres fichiers ou répertoires à ignorer si nécessaire
