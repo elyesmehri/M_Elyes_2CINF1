@@ -1,0 +1,26 @@
+# Ignorer les fichiers compilés
+*.class
+*.o
+*.so
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers temporaires du système
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignorer les répertoires de build
+/build/
+/dist/
+
+# Ignorer les fichiers de configuration de l'éditeur
+.vscode/
+.idea/
+
+# Ignorer les dépendances installées par npm
+node_modules/
+
+# Ignorer les fichiers environnement
+.env
