@@ -1,0 +1,19 @@
+{
+  "name": "groupe6",
+  "version": "1.0.0",
+  "description": "Ceci c'est l'atelier III du groupe du groupe VI, matiére : Collaborateur GIT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elyesmehri/M_Elyes_2CINF1.git"
+  },
+  "author": "2Cinfo3 Goupe 6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elyesmehri/M_Elyes_2CINF1/issues"
+  },
+  "homepage": "https://github.com/elyesmehri/M_Elyes_2CINF1#readme"
+}
