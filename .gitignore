@@ -47,3 +47,26 @@ node_modules/
 
 # Ignorer les fichiers environnement
 .env
+.env.*.local
+
+# Ignorer les fichiers de sortie de test
+/coverage/
+/test-results/
+
+# Ignorer les fichiers de cache
+*.cache
+*.tmp
+.cache/
+tmp/
+
+# Ignorer les fichiers générés par yarn
+.yarn/
+.pnp.*
+.yarnrc.yml
+
+# Ignorer les fichiers de configuration spécifiques au système d'exploitation
+*.bak
+*.orig
+
+# Ignorer les fichiers générés par OS spécifiques
+Desktop.ini
